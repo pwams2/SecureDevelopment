@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="parse">parse</string>
+    <string name="auth">Authenticate with fingerprint</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="choose_your_id_account">Choose your id account :</string>
+    <string name="account_name">Account name :</string>
+    <string name="iban">IBAN :</string>
+    <string name="amount">Amount :</string>
+    <string name="welcome">Welcome</string>
+    <string name="refresh">Refresh</string>
+</resources>
